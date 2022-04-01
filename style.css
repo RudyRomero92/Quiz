@@ -1,0 +1,33 @@
+/*!important*/
+/*& And*/
+/**answer to question*/
+/*TODO: add*/
+/*?question*/
+/*^Highlight*/
+/*Normal comment*/
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    border:none;
+    outline: none;
+    text-decoration: none;
+}
+body{
+    background-color: #1f241b;
+    color:#758b00;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+    gap:50px;
+}
+.demoClass{
+ background-color:greenyellow;
+ padding:10px 20px;
+ border-radius:5px;   
+}
+   @media only screen and (max-width: 754px) {
+
+  }
